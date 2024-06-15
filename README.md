@@ -1,5 +1,5 @@
 # Simon-Game-Clone
-### Simon Game Web Development Project
+### Simon Game Web Development Project - (Demon Slayer: Kimetsu no Yaiba) theme
 
 #### Project Overview:
 The Simon Game Web Development Project is an engaging and interactive coding endeavor aimed at replicating the classic Simon electronic game using modern web technologies. This project combines elements of HTML, CSS, and JavaScript to create a responsive and visually appealing web application that challenges players' memory and pattern recognition skills. The primary goal is to recreate the nostalgic experience of the Simon game while enhancing it with smooth animations, sound effects, and a user-friendly interface.
